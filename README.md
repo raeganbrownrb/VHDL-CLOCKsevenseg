@@ -15,3 +15,6 @@ To differentiate between AM and PM, the clock will be in military time.
   If the user wishes to pause the stopwatch, they must press button 3. 
   To reset the stopwatch the user must access a different mode and return to stopwatch mode.
   Each mode is accessible from any other mode. 
+
+VIDEO DEMO
+https://youtu.be/TYuSvWG1tn4
